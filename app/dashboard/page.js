@@ -271,7 +271,7 @@ export default function Dashboard() {
           <form>
             <div className="mb-4">
               <label htmlFor="productName" className="block mb-2">
-                Product Slug
+                Product Name
               </label>
               <input
                 value={productForm?.slug || ""}
